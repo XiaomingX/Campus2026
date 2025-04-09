@@ -1,4 +1,5 @@
 # Campus2025
+ - 2025年3月最新版本详见：https://github.com/XiaomingX/resume_template
 
 ## 秋招篇
 
