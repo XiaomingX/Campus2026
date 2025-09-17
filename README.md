@@ -1,6 +1,7 @@
 # Campus2025（26届校园招聘）
  - 26届秋招及校园招聘最新版本详见：https://github.com/XiaomingX/resume_template
  - 26届秋招及校园招聘最新版本详见：https://github.com/XiaomingX/jobleap-cn-ai-job-search
+ - 每日更新定期检查的更新更全信息详见：https://jobleap.cn/
 
 ## 秋招篇
 
